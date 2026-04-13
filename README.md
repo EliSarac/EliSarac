@@ -5,4 +5,4 @@ I am @EliSarac
 - 🌱 I’m currently learning about AI Agents through a Hugging Face course
 - 📫 How to reach me: https://www.linkedin.com/in/saracoglu-elif/ 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Elisarac&color=blue)
